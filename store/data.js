@@ -35,4 +35,10 @@ module.exports = {
     lastName: 'Hansson',
     genre: 'Rock',
   },
+
+    Benfaida: {
+    firstName: 'Benfaida',
+    lastName: 'Amine',
+    genre: 'Guitare',
+  },
 };
